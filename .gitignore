@@ -1,0 +1,7 @@
+# Ignorar carpetas de entorno virtual de Python
+
+entorno_scrap
+venv/  
+env/
+# Otros archivos a ignorar
+__pycache__/
