@@ -5,3 +5,4 @@ venv/
 env/
 # Otros archivos a ignorar
 __pycache__/
+datos_inmobiliarios_barcelona.csv
